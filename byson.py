@@ -44,7 +44,7 @@ def story2():
     print ('The initial pain was gone as well as my {}, the fourteen year old and the {} he used to slash my arm.' .format(obj, obj2))
     print ('The other passengers waiting on the {} started to come to me and asked if I was {}.'.format(plac, adj))
     print ('As I {} to the floor I noticed the {} staff coming.' .format(ver, obje))
-    print ('It was {} of me to try to resist I know now. All he said is “Hay {}, what’s up?”' .format(adj2, sta))
+    print ('It was {} of me to try to resist I know now. All he said is "Hay {}, whats up?"' .format(adj2, sta))
     print ('Before I could answer he {} my phone from my {}.' .format(ver2,bod))
     print ('I grabbed for him and thats when the {} swung around and caught my {}. ' .format(obj2,bod2))
     print ('He ran through the {} and was lost in the confusion. ' .format(noun))
